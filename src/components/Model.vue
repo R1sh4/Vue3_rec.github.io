@@ -3,7 +3,7 @@ import { model } from "../script.js";
 </script>
 <template>
   <div id="model" class="card card-model">
-    <img src="src/gif.gif" />
+    <img src="../src/gif.gif" />
   </div>
 </template>
 <script>

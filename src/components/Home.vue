@@ -74,7 +74,7 @@ export default {
   mounted() {
     this.$nextTick(function () {
       this.check_user();
-      model(document.getElementById("model"), "./src/mh1.glb");
+      model(document.getElementById("model"), "../src/mh1.glb");
     });
   },
   methods: {
